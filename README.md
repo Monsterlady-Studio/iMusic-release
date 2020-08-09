@@ -18,6 +18,15 @@
 
 该软件所有权归属于Monsterlady Studio<br />欢迎[邮件](mailto:monsterladystudio@hotmail.com)联系. 
 
+## 📝 License
+
+Copyright © 2020 [@Monsterlady Studio]().<br />
+This project is [GPL V2.0](https://raw.githubusercontent.com/Monsterlady-Studio/iMusic-release/master/LICENSE) licensed.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Monsterlady-Studio/iMusic-release/master/m%E5%AE%9A%E7%A8%BF1.svg">
+</p>
+<br />
+
 ## 支持
 <p align="center">
   <img src="https://raw.githubusercontent.com/Monsterlady-Studio/iMusic-release/master/m%E5%AE%9A%E7%A8%BF1.svg">
