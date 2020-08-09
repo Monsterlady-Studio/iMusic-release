@@ -11,7 +11,7 @@
 ## 作者
 
 👤 **Monsterlady Studio**
-* Github: [@monsterlady](https://github.com/monsterlady)
+* Github: [@bestitz](https://github.com/monsterlady)
 * Steam: [@Superude](https://steamcommunity.com/id/381727/)
 
 ## 🤝 贡献
