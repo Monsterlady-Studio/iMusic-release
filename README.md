@@ -11,8 +11,8 @@
 ## 作者
 
 👤 **Monsterlady Studio**
-![Alt text]
-<img src="https://raw.githubusercontent.com/Monsterlady-Studio/iMusic-release/master/m%E5%AE%9A%E7%A8%BF1.svg">
+
+* <img src="https://raw.githubusercontent.com/Monsterlady-Studio/iMusic-release/master/m%E5%AE%9A%E7%A8%BF1.svg">
 * Github: [@monsterlady](https://github.com/monsterlady)
 * Steam: [@Superude](https://steamcommunity.com/id/381727/)
 
