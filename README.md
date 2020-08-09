@@ -28,11 +28,12 @@ This project is [GPL V2.0](https://raw.githubusercontent.com/Monsterlady-Studio/
 <br />
 
 ## 支持
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Monsterlady-Studio/iMusic-release/master/m%E5%AE%9A%E7%A8%BF1.svg">
-</p>
-<br />
-喜欢的话, 就点个 ⭐️ 吧！
+
+Give a ⭐️ if this project helped you!
+
+<a href="https://www.patreon.com/">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
