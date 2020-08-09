@@ -22,6 +22,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Monsterlady-Studio/iMusic-release/master/m%E5%AE%9A%E7%A8%BF1.svg">
 </p>
-** 喜欢的话, 就点个 ⭐️ 吧！
+<br />
+喜欢的话, 就点个 ⭐️ 吧！
 
-***_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
