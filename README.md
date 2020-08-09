@@ -28,7 +28,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2020[©Monsterlady Studio](https://github.com/Monsterlady-Studio/iMusic-release/blob/master/LICENSE).<br />
+Copyright [©Monsterlady Studio](https://github.com/Monsterlady-Studio/iMusic-release/blob/master/LICENSE).<br />
 This project is [GPL v2.0](https://raw.githubusercontent.com/Monsterlady-Studio/iMusic-release/master/LICENSE) licensed.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Monsterlady-Studio/iMusic-release/master/m%E5%AE%9A%E7%A8%BF1.svg">
