@@ -10,7 +10,7 @@
 
 ## 作者
 
-👤 **<img src="https://raw.githubusercontent.com/Monsterlady-Studio/iMusic-release/master/m%E5%AE%9A%E7%A8%BF1.svg">**
+👤 **Monsterlady Studio**
 * Github: [@monsterlady](https://github.com/monsterlady)
 * Steam: [@Superude](https://steamcommunity.com/id/381727/)
 
@@ -21,6 +21,8 @@
 ## 支持
 
 喜欢的话, 就点个 ⭐️ 吧！
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Monsterlady-Studio/iMusic-release/master/m%E5%AE%9A%E7%A8%BF1.svg">
+</p>
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
