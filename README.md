@@ -16,7 +16,7 @@
 
 ## 🤝 贡献
 
-该软件所有权归属于Monsterlady Studio<br />欢迎邮件联系 [Monsterlady Studio](mailto:monsterladystudio@hotmail.com). 
+该软件所有权归属于Monsterlady Studio<br />欢迎[邮件](mailto:monsterladystudio@hotmail.com)联系. 
 
 ## 支持
 <p align="center">
