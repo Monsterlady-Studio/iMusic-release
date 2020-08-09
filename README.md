@@ -16,7 +16,7 @@
 
 ## 🤝 贡献
 
-该软件所有权归属于[©Monsterlady Studio]<br />欢迎[邮件](mailto:monsterladystudio@hotmail.com)联系. 
+该软件所有权归属于[©Monsterlady Studio](https://github.com/Monsterlady-Studio/iMusic-release/blob/master/LICENSE)<br />欢迎[邮件](mailto:monsterladystudio@hotmail.com)联系. 
 
 ## 支持
 
@@ -32,8 +32,8 @@ Give a ⭐️ if this project helped you!
   <img src="https://raw.githubusercontent.com/Monsterlady-Studio/iMusic-release/master/m%E5%AE%9A%E7%A8%BF1.svg">
 </p>
 <br />
-Copyright © 2020 [@Monsterlady Studio](https://raw.githubusercontent.com/Monsterlady-Studio/iMusic-release/master/LICENSE).<br />
-This project is [GPLV2.0](https://raw.githubusercontent.com/Monsterlady-Studio/iMusic-release/master/LICENSE)licensed.
+Copyright © 2020 [@Monsterlady Studio](https://github.com/Monsterlady-Studio/iMusic-release/blob/master/LICENSE).<br />
+This project is [GPL V2.0](https://github.com/Monsterlady-Studio/iMusic-release/blob/master/LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
