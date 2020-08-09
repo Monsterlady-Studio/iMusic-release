@@ -16,7 +16,15 @@
 
 ## 🤝 贡献
 
-该软件所有权归属于Monsterlady Studio<br />欢迎[邮件](mailto:monsterladystudio@hotmail.com)联系. 
+该软件所有权归属于[©Monsterlady Studio]<br />欢迎[邮件](mailto:monsterladystudio@hotmail.com)联系. 
+
+## 支持
+
+Give a ⭐️ if this project helped you!
+
+<a href="https://www.patreon.com/">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
 
 ## 📝 License
 
@@ -26,14 +34,6 @@ This project is [GPL V2.0](https://raw.githubusercontent.com/Monsterlady-Studio/
   <img src="https://raw.githubusercontent.com/Monsterlady-Studio/iMusic-release/master/m%E5%AE%9A%E7%A8%BF1.svg">
 </p>
 <br />
-
-## 支持
-
-Give a ⭐️ if this project helped you!
-
-<a href="https://www.patreon.com/">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
